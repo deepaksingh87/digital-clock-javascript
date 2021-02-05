@@ -1,0 +1,13 @@
+body{
+    background-color: #000000;
+    color: white;
+}
+
+.clock{
+    color:#17D4FE;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 100px;
+    
+}
